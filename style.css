@@ -1,0 +1,66 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.about-container {
+    display: flex;
+    width: 80%;
+    border: 2px solid purple;
+    height: 150px;
+}
+
+.about-title {
+    height: 98%;
+    width: 100px;
+    border-right: 5px solid blue;
+    margin-right: 5px;
+}
+
+.about-text {
+    border: 2px solid orange;
+    width: 90%;
+}
+
+.portfolio-main {
+    display: flex;
+    width: 80%;
+    border: 2px solid purple;
+    height: 900px;
+}
+
+.portfolio-main-title {
+    height: 98%;
+    width: 100px;
+    border-right: 5px solid blue;
+    margin-right: 5px;
+}
+
+.portfolio-container {
+    border: 2px solid green;
+    width: 100%;
+}
+
+.portfolio-main-project {
+    border: 2px solid orange;
+    height: 400px;
+    width: 90%;
+}
+
+.portfolio-sub-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    border: 2px solid rgb(181, 22, 22);
+}
+
+.portfolio-sub-item {
+    border: 2px solid #333;
+    padding-bottom: 15px;
+    font-weight: bold;
+    background-color: lavender;
+    margin: 5px;
+    width: 45%;
+    height: 50px;
+}
