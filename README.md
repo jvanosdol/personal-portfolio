@@ -40,8 +40,9 @@ git clone https://github.com/jvanosdol/personal-portfolio
 
 ## Screenshots
 
-    ![Web Screenshot](assets\images\screenshot.png) "Web Screenshot"
-    ![Mobile Screenshot](assets\images\mobile.png) "Mobile Screenshot"
+    ![Web Screenshot](assets\images\screenshot.png "Web Screenshot")
+
+    ![Mobile Screenshot](assets\images\mobile.png "Mobile Screenshot")
 
 
 ## Credits
