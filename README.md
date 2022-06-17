@@ -40,29 +40,12 @@ git clone https://github.com/jvanosdol/personal-portfolio
 
 ## Screenshots
 
-    ![Web Screenshot](assets\images\screenshot.png "Web Screenshot")
-
-    ![Mobile Screenshot](assets\images\mobile.png "Mobile Screenshot")
-
-    <img
-  src="/assets/images/screenshot.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
-    <img
-  src="./assets/images/screenshot.png"
-  alt="Alt text"
-  title="Optional title"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
-
+- Mobile Screenshot
   ![My Image](assets/images/mobile.png)
 
-  ![My Image](../images/mobile.png)
-
+ 
+- Web Screenshot
   ![My Image](assets/images/screenshot.png)
-
-  ![My Image](../assets/images/screenshot.png)
 
 
 
