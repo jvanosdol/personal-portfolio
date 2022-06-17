@@ -6,6 +6,10 @@
 
 }
 
+html {
+    scroll-behavior: smooth;
+  }
+
 li, a, button {
     font-family: "Monsterrat", sans-serif;
     font-weight: 500;
@@ -19,7 +23,15 @@ li, a, button {
     background-color: lightblue;
 }
 
+.sub-img{
+    height: 50px;
+    width: 100%;
+}
 
+.main-img {
+    height: fit-content;
+    width: 100%;
+}
 
 
 
@@ -134,18 +146,19 @@ nav {
     display: flex;
     flex-wrap: wrap;
     width: 100%;
+
     justify-content: space-around;
     border: 2px solid rgb(181, 22, 22);
 }
 
 .portfolio-sub-item {
-    border: 2px solid #333;
+    border: 5px solid #333;
     padding-bottom: 15px;
     font-weight: bold;
     background-color: lavender;
-    margin: 5px;
+    margin: 3px;
     width: 45%;
-    height: 50px;
+    height: 60px;
 }
 
 .contact-container {
