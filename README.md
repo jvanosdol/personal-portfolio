@@ -10,6 +10,8 @@ The main problem I was trying to solve was to organize the divs properly in orde
 
 This project focused on CSS styling, primarily on organizing divs. In this project I focused on grouping divs into their respective container and orgainzing them at a container level. I also focused on making sure the website would dynamically change based on the device/screen width using Media Queries.
 
+This project isn't fully complete, it could use a few styling changes as well as additional content, but it satisfies most of the required functionality.
+
 
 ## Table of Contents
 
