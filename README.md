@@ -21,11 +21,6 @@ This project isn't fully complete, it could use a few styling changes as well as
 - [Features](#features)
 - [How To Contribute](#how-to-contribute)
 - [Contact](#contact)
-- [Usage](#usage)
-- [Usage](#usage)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 
 ## Built With
