@@ -2,7 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    background-color: #ffecd7;
+    background-color: #ffffff;
 
 }
 
@@ -21,6 +21,11 @@ li, a, button {
 .container {
     display: flex;
     background-color: lightblue;
+}
+
+.header-image {
+    height: 200px;
+    width: 100%;
 }
 
 .sub-img{
@@ -91,7 +96,7 @@ nav {
 
 .about-title {
     height: 98%;
-    min-width: 70px;
+    min-width: 100px;
     width: 100px;
     border-right: 5px solid #294da8;
     margin-right: 5px;
@@ -126,7 +131,7 @@ nav {
 .portfolio-main-title {
     height: 98%;
     width: 100px;
-    min-width: 70px;
+    min-width: 100px;
     border-right: 5px solid #294da8;
     margin-right: 5px;
 }
@@ -172,7 +177,7 @@ nav {
 .contact-title {
     height: 98%;
     width: 100px;
-    min-width: 70px;
+    min-width: 100px;
     border-right: 5px solid #294da8;
     margin-right: 5px;
 }
