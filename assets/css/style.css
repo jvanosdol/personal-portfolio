@@ -169,7 +169,7 @@ nav {
 .contact-helper {
     display: flex;
     width: 1000px;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .nav-links {
