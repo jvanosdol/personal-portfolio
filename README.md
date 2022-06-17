@@ -56,7 +56,7 @@ git clone https://github.com/jvanosdol/personal-portfolio
   title="Optional title"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
-  ![My Image](images/mobile.png)
+  ![My Image](assets/images/mobile.png)
 
   ![My Image](../images/mobile.png)
 
