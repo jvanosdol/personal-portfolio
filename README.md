@@ -41,10 +41,12 @@ git clone https://github.com/jvanosdol/personal-portfolio
 ## Screenshots
 
 - Mobile Screenshot
+
   ![My Image](assets/images/mobile.png)
 
  
 - Web Screenshot
+
   ![My Image](assets/images/screenshot.png)
 
 
