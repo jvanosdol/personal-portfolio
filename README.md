@@ -11,62 +11,71 @@ The main problem I was trying to solve was to organize the divs properly in orde
 This project focused on CSS styling, primarily on organizing divs. In this project I focused on grouping divs into their respective container and orgainzing them at a container level. I also focused on making sure the website would dynamically change based on the device/screen width using Media Queries.
 
 
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## Table of Contents
 
 - [Installation](#installation)
+- [Screenshots](#screenshots)
+- [Credits](#credits)
+- [Features](#features)
+- [How To Contribute](#how-to-contribute)
+- [Contact](#contact)
+- [Usage](#usage)
+- [Usage](#usage)
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
 
+
+## Built With
+
+- HTML
+- CSS
+
+
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Clone the repo
+git clone https://github.com/jvanosdol/personal-portfolio
 
-## Usage
+
+## Screenshots
 
 Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
     ```md
-    ![alt text](assets/images/screenshot.png)
+    ![alt text](assets/screenshot.png)
+    ![alt text](assets/mobile.png)
     ```
+
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
+[Google](https://www.google.com)
+[stackoverflow - stretching divs](https://stackoverflow.com/questions/21222663/make-nested-div-stretch-to-100-of-remaining-container-div-height)
+[W3 Schools - CSS positioning](https://www.w3schools.com/css/css_positioning.asp)
+[Color Palettes](https://coolors.co/palettes/trending)
+[Stackoverflow - image display properties](https://stackoverflow.com/questions/15825118/css-displaying-elements-vertically-down-instead-of-hortizontal-straight)
+[Stackoverflow - image resizing](https://stackoverflow.com/questions/3029422/how-do-i-auto-resize-an-image-to-fit-a-div-container)
+[Web Dev Simplified - Flexbox](https://www.youtube.com/watch?v=fYq5PXgSsbE)
 
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
-
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
----
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
 
 ## Features
 
-If your project has a lot of features, list them here.
+This website shows off CSS UI scrolling and dynamic styling that changes depending on the user's viewport.
 
 ## How to Contribute
 
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
+1. Fork the Project
+2. Create your Feature Branch (git checkout -b)
+3. Commit your Changes (git commit -m '')
+4. Push to the Branch (git push origin)
+5. Open a Pull Request
 
-## Tests
 
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-A GitHub profile with consistently high-quality README files is sure to help you stand out among the crowd of developers putting their work on GitHub, so make sure you give these important files the time and attention they deserve.
+## Contact
 
+James Van Osdol
+
+Project Link: https://github.com/jvanosdol/personal-portfolio
