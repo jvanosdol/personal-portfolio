@@ -36,22 +36,6 @@ li, a, button {
     width: 100%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 body {
     display: flex;
     flex-wrap: wrap;
@@ -177,14 +161,19 @@ nav {
     border-right: 5px solid #294da8;
     margin-right: 5px;
 }
-
+/* 
 .contact-text {
     width: 100%;
+} */
+
+.contact-info {
+    width: 30%;
 }
 
 .contact-helper {
     display: flex;
     width: 1000px;
+    justify-content: space-evenly;
 }
 
 .nav-links {
