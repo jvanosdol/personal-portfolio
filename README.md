@@ -44,16 +44,28 @@ git clone https://github.com/jvanosdol/personal-portfolio
 
     ![Mobile Screenshot](assets\images\mobile.png "Mobile Screenshot")
 
+    <img
+  src="/assets/images/screenshot.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+    <img
+  src="./assets/images/screenshot.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
 
 ## Credits
 
-[Google](https://www.google.com)
-[stackoverflow - stretching divs](https://stackoverflow.com/questions/21222663/make-nested-div-stretch-to-100-of-remaining-container-div-height)
-[W3 Schools - CSS positioning](https://www.w3schools.com/css/css_positioning.asp)
-[Color Palettes](https://coolors.co/palettes/trending)
-[Stackoverflow - image display properties](https://stackoverflow.com/questions/15825118/css-displaying-elements-vertically-down-instead-of-hortizontal-straight)
-[Stackoverflow - image resizing](https://stackoverflow.com/questions/3029422/how-do-i-auto-resize-an-image-to-fit-a-div-container)
-[Web Dev Simplified - Flexbox](https://www.youtube.com/watch?v=fYq5PXgSsbE)
+- [Google](https://www.google.com)
+- [stackoverflow - stretching divs](https://stackoverflow.com/questions/21222663/make-nested-div-stretch-to-100-of-remaining-container-div-height)
+- [W3 Schools - CSS positioning](https://www.w3schools.com/css/css_positioning.asp)
+- [Color Palettes](https://coolors.co/palettes/trending)
+- [Stackoverflow - image display properties](https://stackoverflow.com/questions/15825118/css-displaying-elements-vertically-down-instead-of-hortizontal-straight)
+- [Stackoverflow - image resizing](https://stackoverflow.com/questions/3029422/how-do-i-auto-resize-an-image-to-fit-a-div-container)
+- [Web Dev Simplified - Flexbox](https://www.youtube.com/watch?v=fYq5PXgSsbE)
 
 
 ## Features
